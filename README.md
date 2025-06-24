@@ -1,6 +1,12 @@
 # Ashvini Diving – Explore Sri Lanka’s Underwater Wonders
 Welcome to Ashvini Diving, a captivating and elegant React-based website dedicated to showcasing the breathtaking underwater landscapes of Sri Lanka through the eyes of Sri Lanka’s first female Dive Master. This platform celebrates her pioneering spirit and professional expertise, offering visitors a seamless way to discover and connect with the underwater world under expert guidance.
 
+
+
+
+
+
+
 A modern, responsive portfolio website for Ashvini, a professional dive master in Sri Lanka. Built with React and Vite.
 
 ## Features
